@@ -1,8 +1,8 @@
-let b1 = 5;
+let b1 = 15;
 console.log('The value of my variable b1 is: ' + b1);
-let b2 = 15;
+let b2 = true;
 console.log('The value of my variable b2 is: ' + b2);
-let b3 = "Burhan";
+let b3 = ['$123','bUrHaN'];
 console.log('The value of my variable b3 is: ' + b3);
 let b4 = "HYF";
 console.log('The value of my variable b4 is: ' + b4);
